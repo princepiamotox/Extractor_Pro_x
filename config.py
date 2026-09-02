@@ -3,26 +3,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "35822069"))
+API_ID = int(os.environ.get("API_ID", "352069"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","35cea1c5e6384f57e914ac982ff5ffd1")
+API_HASH = os.environ.get("API_HASH","35cea1c5e6384f57e914ac9ff5ffd1")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8309873942:AAHKpbr7GhXNjOiupMfpdBeNSsF2jBdH1dg")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8309873942:AAHKpbr7GhXOiupMfpdBeNSsF2jBdH1dg")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@extract_txt_new_bot")
 BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "5938871512"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "59388712"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003766078927"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-10037678927"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003766078927")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://princepiax:princepia45@cluster0.4kn7hq0.mongodb.net/?appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://princepiax:princea45@cluster0.4kn7hq0.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003766078927"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-10037660927"))
 # -----------------------------------------------
 join = '<a href="https://t.me/princepia">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
