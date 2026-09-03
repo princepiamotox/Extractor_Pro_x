@@ -27,8 +27,8 @@ It is designed to process and extract content from TXT files directly through Te
 ║                                      ║
 ║       📄 TXT File Processing         ║
 ║       🤖 Telegram Bot                ║
-║       ⚡ Fast & Lightweight           ║
-║       📱 Termux Compatible            ║
+║       ⚡ Fast & Lightweight          ║
+║       📱 Termux Compatible           ║
 ╚══════════════════════════════════════╝
 
 ---
