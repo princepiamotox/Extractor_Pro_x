@@ -38,6 +38,48 @@ The project is designed with a modular structure and can be configured and run o
 
 ---
 
+# 🎥 VIDEO TUTORIAL
+
+<p align="center">
+
+<a href="https://youtu.be/_2RnbRwjfQY">
+
+<img src="https://img.youtube.com/vi/_2RnbRwjfQY/maxresdefault.jpg" width="850">
+
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://youtu.be/_2RnbRwjfQY">
+
+<img src="https://img.shields.io/badge/▶️%20WATCH%20FULL%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+</a>
+
+</p>
+
+---
+
+# 📺 CORETECH AI
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=🔥+WELCOME+TO+CORETECH+AI;🤖+AI+%7C+TECH+%7C+AUTOMATION;🎬+TUTORIALS+%7C+TOOLS+%7C+PROJECTS">
+
+</p>
+
+<p align="center">
+
+<a href="https://youtube.com/@coretechai">
+
+<img src="https://img.shields.io/badge/🔴%20SUBSCRIBE%20TO%20CORETECH%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+
+</a>
+
+</p>
+
 # ⚡ HOW IT WORKS
 
 <p align="center">
@@ -218,47 +260,7 @@ Then start the bot:
 
 ---
 
-# 🎥 VIDEO TUTORIAL
 
-<p align="center">
-
-<a href="https://youtu.be/_2RnbRwjfQY">
-
-<img src="https://img.youtube.com/vi/_2RnbRwjfQY/maxresdefault.jpg" width="850">
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://youtu.be/_2RnbRwjfQY">
-
-<img src="https://img.shields.io/badge/▶️%20WATCH%20FULL%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-
-</a>
-
-</p>
-
----
-
-# 📺 CORETECH AI
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=700&lines=🔥+WELCOME+TO+CORETECH+AI;🤖+AI+%7C+TECH+%7C+AUTOMATION;🎬+TUTORIALS+%7C+TOOLS+%7C+PROJECTS">
-
-</p>
-
-<p align="center">
-
-<a href="https://youtube.com/@coretechai">
-
-<img src="https://img.shields.io/badge/🔴%20SUBSCRIBE%20TO%20CORETECH%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-
-</a>
-
-</p>
 
 ---
 
