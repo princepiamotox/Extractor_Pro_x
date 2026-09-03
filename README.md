@@ -1,150 +1,116 @@
-🚀 Extractor Pro X
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,50:0072FF,100:7B2CFF&text=EXTRACTOR%20PRO%20X&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Telegram%20TXT%20Extractor%20Bot&descAlignY=58&descSize=20" width="100%"/><br><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=⚡+FAST+%7C+POWERFUL+%7C+AUTOMATED;🤖+TELEGRAM+TXT+EXTRACTOR+BOT;📱+TERMUX+%7C+PYTHON+%7C+PYROGRAM;🚀+BUILT+FOR+SPEED+AND+SIMPLICITY" /><br><br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Extractor%20Pro%20X&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p><p align="center">
-  <a href="https://github.com/princepiamotox/Extractor_Pro_x">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://youtu.be/_2RnbRwjfQY">
-    <img src="https://img.shields.io/badge/YouTube-Tutorial-FF0000?style=for-the-badge&logo=youtube" />
-  </a>
-  <a href="https://youtube.com/@coretechai">
-    <img src="https://img.shields.io/badge/CoreTech%20AI-Subscribe-FF0000?style=for-the-badge&logo=youtube" />
-  </a>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Telegram+TXT+Extractor+Bot;Fast+%E2%80%A2+Simple+%E2%80%A2+Powerful;Run+it+on+Termux+%F0%9F%93%B1;Built+with+Python+%F0%9F%90%8D" />
-</p>---
+<a href="https://github.com/princepiamotox/Extractor_Pro_x">
+<img src="https://img.shields.io/github/stars/princepiamotox/Extractor_Pro_x?style=for-the-badge&logo=github&logoColor=white&label=⭐%20STARS&color=yellow"/>
+</a><a href="https://github.com/princepiamotox/Extractor_Pro_x/fork">
+<img src="https://img.shields.io/github/forks/princepiamotox/Extractor_Pro_x?style=for-the-badge&logo=github&logoColor=white&label=🍴%20FORKS&color=blue"/>
+</a><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Telegram-BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=princepiamotox&repo=Extractor_Pro_x&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/></div>---
+
+<div align="center">⚡ "WELCOME TO EXTRACTOR PRO X"
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7B2CFF&center=true&vCenter=true&width=750&lines=Send+TXT+%E2%86%92+Bot+Processes+%E2%86%92+Get+Result;Simple.+Fast.+Powerful.;Your+Telegram+TXT+Processing+Assistant." /></div>---
 
 🤖 What is Extractor Pro X?
 
-Extractor Pro X is a powerful Telegram TXT Extractor Bot built with Python and Pyrogram.
+Extractor Pro X is a Telegram-based TXT extraction bot built with Python + Pyrogram.
 
-It is designed to process and extract content from TXT files directly through Telegram.
+It is designed to process TXT files through Telegram and provides a simple workflow for users who want automated text-file processing.
 
-╔══════════════════════════════════════╗
-║          🚀 EXTRACTOR PRO X          ║
-║                                      ║
-║       📄 TXT File Processing         ║
-║       🤖 Telegram Bot                ║
-║       ⚡ Fast & Lightweight          ║
-║       📱 Termux Compatible           ║
-╚══════════════════════════════════════╝
+<div align="center">📄 FILE
 
----
+⬇️
 
-✨ Features
+🤖 BOT
 
-<table>
-<tr>
-<td align="center" width="33%">🤖
+⬇️
 
-Telegram Bot
+⚙️ PROCESSING
 
-Use the extractor directly through Telegram.
+⬇️
 
-</td>
-<td align="center" width="33%">📄
+✅ RESULT
 
-TXT Extractor
+</div>---
 
-Process and extract TXT files.
+✨ "FEATURES"
 
-</td>
-<td align="center" width="33%">⚡
+<div align="center">🚀 Feature| ⚡ Description
+📄| TXT File Processing
+🤖| Telegram Bot Interface
+⚡| Fast Processing
+📱| Termux Compatible
+🐍| Python Powered
+🧩| Modular Architecture
+🌐| Flask Web Server
+🔧| Custom Configuration
 
-Fast
+</div>---
 
-Lightweight Python-based processing.
+🎬 "HOW IT WORKS"
 
-</td>
-</tr><tr>
-<td align="center">📱
-
-Termux
-
-Run directly on Android.
-
-</td>
-<td align="center">☁️
-
-Server Ready
-
-Deploy on supported Linux servers.
-
-</td>
-<td align="center">🔧
-
-Easy Setup
-
-Simple installation process.
-
-</td>
-</tr>
-</table>---
-
-🎬 Video Tutorial
-
-<p align="center">
-  <a href="https://youtu.be/_2RnbRwjfQY">
-    <img src="https://img.shields.io/badge/▶%20WATCH%20FULL%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>📺 Learn how to install Extractor Pro X on Termux
-
-The complete installation and setup process is explained step-by-step in the video.
-
-🎥 Tutorial:
-https://youtu.be/_2RnbRwjfQY
+             ┌─────────────────┐
+             │   📄 TXT FILE   │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │   🤖 TELEGRAM   │
+             │      BOT        │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ ⚙️ PROCESSING   │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │   ✅ RESULT     │
+             └─────────────────┘
 
 ---
 
-📱 Installation — Termux
+📱 "TERMUX INSTALLATION"
 
-«💡 Copy and run the commands below one by one.»
-
-① Update Termux
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=🔥+ONE+STEP+AT+A+TIME;⚡+COPY+%2B+PASTE;🚀+START+YOUR+BOT" /></div>"01" — Update Termux
 
 pkg update -y && pkg upgrade -y
 
-② Install Required Packages
+"02" — Install required packages
 
 pkg install python git rust clang make pkg-config openssl libffi -y
 
-③ Clone the Repository
+"03" — Clone Repository
 
 git clone https://github.com/princepiamotox/Extractor_Pro_x.git
 
-④ Enter the Directory
+"04" — Enter Project
 
 cd Extractor_Pro_x
 
-⑤ Update Python Tools
+"05" — Upgrade Python Tools
 
 pip install --upgrade pip setuptools wheel
 
-⑥ Install Maturin
+"06" — Install Maturin
 
 pip install maturin
 
-⑦ Install Dependencies
+"07" — Install Dependencies
 
 pip install -r requirements.txt
 
-⑧ 🚀 Start the Bot
+"08" — 🚀 START BOT
 
 python -m Extractor
 
-<p align="center">🎉 BOT STARTED!
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=00FF88&center=true&vCenter=true&width=700&lines=✅+BOT+STARTED;🤖+EXTRACTOR+PRO+X+IS+ONLINE;🚀+READY+TO+PROCESS+FILES" /></div>---
 
-Your Extractor Pro X bot is now running.
+⚙️ "CONFIGURATION"
 
-</p>---
-
-⚙️ Configuration
-
-Before starting the bot, configure the required credentials.
-
-Common configuration values include:
+Configure your bot settings before starting it.
 
 API_ID
 API_HASH
@@ -152,25 +118,61 @@ BOT_TOKEN
 BOT_USERNAME
 OWNER_ID
 CHANNEL_ID
+CHANNEL_ID2
 MONGO_URL
+PREMIUM_LOGS
+THUMB_URL
 
-🔐 Keep Your Credentials Private
+🔐 SECURITY
 
-«🚨 NEVER publish your Bot Token, API Hash, MongoDB URL, or other private credentials on GitHub.»
+«⚠️ NEVER publish real credentials in a public GitHub repository.»
 
-Use environment variables or another secure configuration method.
+Keep your:
 
-If a secret is accidentally exposed, revoke and regenerate it immediately.
+🔑 API_ID
+🔐 API_HASH
+🤖 BOT_TOKEN
+🗄️ MONGO_URL
+
+private.
+
+If a credential has already been exposed, rotate/revoke it immediately.
 
 ---
 
-🛠️ Troubleshooting
+🧩 "PROJECT STRUCTURE"
 
-❌ "main.py" not found
+Extractor_Pro_x/
+│
+├── 🤖 Extractor/
+│   ├── core/
+│   ├── html_converter/
+│   ├── modules/
+│   ├── thumbs/
+│   ├── __init__.py
+│   └── __main__.py
+│
+├── 🌐 app.py
+├── ⚙️ config.py
+├── 🚀 run.py
+├── 🖥️ server.py
+├── 🔐 secure.py
+│
+├── 📦 requirements.txt
+├── 🐳 Dockerfile
+├── 🚂 Procfile
+├── ⚙️ heroku.yml
+└── 📖 README.md
 
-If you see:
+---
 
-python: can't open file 'main.py'
+🛠️ "TROUBLESHOOTING"
+
+❌ "main.py" not found?
+
+Don't use:
+
+python main.py
 
 Use:
 
@@ -178,123 +180,47 @@ python -m Extractor
 
 ---
 
-❌ "pydantic-core" / "maturin" Error
+❌ "pydantic-core" / "maturin" error?
 
-If dependency installation produces a "pydantic-core" or "maturin" build error, make sure the required build packages are installed:
+Run:
 
 pkg install rust clang make pkg-config openssl libffi -y
 
-Then run:
+Then:
 
 pip install --upgrade pip setuptools wheel
 pip install maturin
+
+And finally:
+
 pip install -r requirements.txt
 
 ---
 
-🧩 Project Structure
+🎥 "VIDEO TUTORIAL"
 
-Extractor_Pro_x/
-│
-├── 📁 Extractor/
-│   ├── __init__.py
-│   ├── __main__.py
-│   └── ...
-│
-├── ⚙️ config.py
-├── 📦 requirements.txt
-├── 🚀 run.py
-├── 🌐 app.py
-├── 🖥️ server.py
-├── 🔐 secure.py
-├── 🐳 Dockerfile
-├── 📋 Procfile
-└── 📖 README.md
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=750&lines=🎬+FULL+SETUP+TUTORIAL;📱+TERMUX+INSTALLATION;🤖+BOT+DEPLOYMENT;▶️+WATCH+NOW" /><br><br>
 
----
+<a href="https://youtu.be/_2RnbRwjfQY"><img src="https://img.shields.io/badge/▶️%20WATCH%20FULL%20TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></div>---
 
-🛠️ Built With
+🌟 "SUPPORT THE PROJECT"
 
-<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pyrogram-2CA5E0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" /></p>---
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=600&color=FFD700&center=true&vCenter=true&width=650&lines=⭐+STAR+THE+REPOSITORY;🍴+FORK+THE+PROJECT;📢+SHARE+WITH+OTHERS;❤️+SUPPORT+CORETECH+AI" /><br><a href="https://github.com/princepiamotox/Extractor_Pro_x"><img src="https://img.shields.io/badge/⭐%20STAR%20THIS%20REPO-FFD700?style=for-the-badge&logo=github&logoColor=black"/></a><a href="https://github.com/princepiamotox/Extractor_Pro_x/fork"><img src="https://img.shields.io/badge/🍴%20FORK%20NOW-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/></a></div>---
 
-⚡ Quick Start
+📺 "CORETECH AI"
 
-Already have Termux installed?
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=AI+%7C+AUTOMATION+%7C+TELEGRAM+%7C+TECH;BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+SHARING" /><br><br>
 
-pkg update -y && pkg upgrade -y
-pkg install python git rust clang make pkg-config openssl libffi -y
-git clone https://github.com/princepiamotox/Extractor_Pro_x.git
-cd Extractor_Pro_x
-pip install --upgrade pip setuptools wheel
-pip install maturin
-pip install -r requirements.txt
-python -m Extractor
+<a href="https://youtube.com/@coretechai"><img src="https://img.shields.io/badge/▶️%20SUBSCRIBE%20CORETECH%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a></div>---
 
----
-
-📺 CoreTech AI
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+CoreTech+AI+%F0%9F%94%A5;AI+%7C+Automation+%7C+Coding+%7C+Technology" />
-</p>🚀 More Projects • Tutorials • AI • Automation
-
-<p align="center">
-  <a href="https://youtube.com/@coretechai">
-    <img src="https://img.shields.io/badge/🔔%20SUBSCRIBE%20TO%20CORETECH%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>📺 YouTube:
-https://youtube.com/@coretechai
-
----
-
-⭐ Support
-
-If you like Extractor Pro X, show some ❤️:
-
-⭐ Star the repository
-🍴 Fork the project
-📢 Share it
-📺 Subscribe to CoreTech AI
-
-<p align="center">⭐ Your support motivates more open-source projects! ⭐
-
-</p>---
-
-👨‍💻 Author
-
-<p align="center">Prince Pia
-
-🐙 GitHub • 📺 YouTube • 💻 Developer
-
-</p>GitHub:
-https://github.com/princepiamotox
-
-YouTube:
-https://youtube.com/@coretechai
-
----
-
-⚠️ Disclaimer
+📜 "DISCLAIMER"
 
 This project is provided for educational and development purposes.
 
-Users are responsible for configuring and using the project according to:
-
-- Telegram's Terms of Service
-- Applicable laws and regulations
-- Third-party service policies
-- Local laws
-
-The author is not responsible for misuse of the project.
+Use the bot responsibly and ensure your implementation complies with Telegram's rules, applicable laws, and relevant third-party policies.
 
 ---
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" width="100%"/>🚀 Extractor Pro X
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=💙+BUILT+WITH+PYTHON+%2B+TELEGRAM;⚡+EXTRACTOR+PRO+X;🚀+CORETECH+AI" /><br><br>
 
-Made with ❤️ by CoreTech AI
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7B2CFF,50:0072FF,100:00F5FF&section=footer&animation=fadeIn" width="100%"/></div>
